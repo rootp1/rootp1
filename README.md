@@ -8,7 +8,7 @@
 <a href="https://instagram.com/arnavvdeshpande" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iz_manik" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+### Languages and Tools:
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
@@ -31,3 +31,9 @@
   <img src="https://seeklogo.com/images/F/foundry-logo-FDC591EFA3-seeklogo.com.png" alt="Foundry" width="40" height="40"/>
 
 </p>
+
+
+### Github Stats :
+
+<p><img align=top src="https://github-readme-stats.vercel.app/api?username=rootp1&theme=tokyonight"/></p>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=rootp1&theme=gruvbox&border_radius=6.3" alt="GitHub Streak" /></a>
