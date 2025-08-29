@@ -1,4 +1,4 @@
-<h1 align="center">Hello, Myself √π, I'm a Raw web3 Developer, who is gonna build craziest projects in according to what I have planned </h1>
+<h1 align="left">Hello, Myself √π, I'm a Raw web3 Developer, who is gonna build craziest projects in 2025 according to the action plan </h1>
 <!-- <h3 align="center">A passionate developer with a keen interest in cutting-edge technologies and a love for innovation.</h3>
 <h3 align="left">Connect with me:</h3> -->
 <h2>network protocol based blockchain projects popping soon....</h2>
