@@ -1,6 +1,14 @@
-<h2 align="left">Hello, Myself √π, I'm a Raw Developer, huh! </h2>
+<div align="center">
+  <img src="https://github.com/rootp1/rootp1/blob/main/undefined%20-%20Imgur.gif" width="180" style="vertical-align: middle;" />
+  <h2 style="font-size: 32px; font-weight: 700; vertical-align: middle;">
+    Hello, Myself √π, I'm a Raw Developer, huh!
+  </h2>
+</div>
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="800">
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="1000" />
+</p>
 <br><br>
 <p align="left">
   <a href="https://x.com/arnavvd" target="blank">
