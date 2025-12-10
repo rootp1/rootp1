@@ -11,7 +11,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
 
-  <a href="https://web.telegram.org/a/#7300924119" target="blank">
+  <a href="https://t.me/roootp1" target="blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" height="30" width="40" />
   </a>
   <a href="https://discord.com/users/728099961547259905" target="blank">
