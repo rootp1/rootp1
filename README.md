@@ -1,19 +1,25 @@
-<h2 align="left">Hello, Myself √π, I'm a Raw Developer, huh </h2>
-<!-- <h3 align="center">A passionate developer with a keen interest in cutting-edge technologies and a love for innovation.</h3>
-<h3 align="left">Connect with me:</h3> -->
+<h2 align="left">Hello, Myself √π, I'm a Raw Developer, huh! </h2>
+
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="800">
 <br><br>
 <p align="left">
-  <a href="https://twitter.com/arnavdInd" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arnavdInd" height="30" width="40" />
+  <a href="https://x.com/arnavvd" target="blank">
+    <img align="center" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"  width="60" />
   </a>
+
   <a href="https://www.linkedin.com/in/arnav-deshpande-948890235/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arnav-deshpande" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/arnavvdeshpande" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arnavvdeshpande" height="30" width="40" />
+
+  <a href="https://web.telegram.org/a/#7300924119" target="blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" height="30" width="40" />
   </a>
+  <a href="https://discord.com/users/728099961547259905" target="blank">
+    <img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/main/src/images/Discord-Logo.png" alt="Discord"  width="120" />
+  </a>
+
 </p>
+
 
 ### Languages and Tools:
 <p align="left">
@@ -32,11 +38,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js" width="40" height="40"/>
-  <!--
-  <img src="https://seeklogo.com/images/E/ethers-js-logo-EC6B576DBD-seeklogo.com.png" alt="Ethers.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" alt="Solidity" width="40" height="40"/>
-  <img src="https://seeklogo.com/images/F/foundry-logo-FDC591EFA3-seeklogo.com.png" alt="Foundry" width="40" height="40"/>
-  -->
+
 </p>
 
 ### GitHub Stats:
